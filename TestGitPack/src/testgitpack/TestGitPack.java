@@ -4,6 +4,7 @@ public class TestGitPack {
 
     public static void main(String[] args) {
         System.out.println("Om du ser detta har det lyckats");
+        System.out.println("Om du ser detta har det lyckats en gång till");
     }
     
 }
